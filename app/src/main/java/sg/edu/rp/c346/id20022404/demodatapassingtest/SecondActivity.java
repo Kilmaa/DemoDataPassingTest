@@ -21,4 +21,6 @@ public class SecondActivity extends AppCompatActivity {
         tvAnswer.setText("Integer value received is: " + value);
 
     }
+
+
 }
